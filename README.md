@@ -22,8 +22,7 @@ To demonstrate proficiency in SQL by solving real-life data problems, providing 
 - … and more (20 in total)
 
 ## 📑 Files
-- `SQL_Capstone_Project.sql` – All SQL queries used
-- `SQL_Capstone_Insights_Report.sql` – Plain-language insights from the queries
+- `SQL CapstoneProject.sql` – All SQL queries used with insights
 - `screenshots/` – Screenshots of some query results
 
 
